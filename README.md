@@ -1,2 +1,1 @@
-# lab1_python_fundamentals
-Decoding DNA
+Decoding string of DNA and extracting valuable data from the strings.
